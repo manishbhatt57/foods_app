@@ -5,6 +5,7 @@ const Menu = [
     name: "maggi",
     category: "breakfast",
     price: "₹12",
+    restaurants:"Zomato",
     description:
       "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -15,6 +16,7 @@ const Menu = [
     name: "allu pakoida",
     category: "evening",
     price: "₹20",
+    restaurants:"Swiggy",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -24,6 +26,7 @@ const Menu = [
     name: "corn",
     category: "breakfast",
     price: "₹10",
+    restaurants:"Red Chilli",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -33,6 +36,7 @@ const Menu = [
     name: "chola",
     category: "lunch",
     price: "₹50",
+    restaurants:"Red Chilli",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -42,6 +46,7 @@ const Menu = [
     name: "pizza",
     category: "evening",
     price: "₹80",
+    restaurants:"Swiggy",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -51,6 +56,7 @@ const Menu = [
     name: "Non-Veg Thali",
     category: "dinner",
     price: "₹180",
+    restaurants:"Zomato",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -60,6 +66,7 @@ const Menu = [
     name: "Sweets",
     category: "dinner",
     price: "₹60",
+    restaurants:"Zomato",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -69,6 +76,7 @@ const Menu = [
     name: "Rajma Rice",
     category: "lunch",
     price: "₹60",
+    restaurants:"Zomato",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
@@ -78,6 +86,7 @@ const Menu = [
     name: "samaso",
     category: "evening",
     price: "₹10",
+    restaurants:"Swiggy",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
